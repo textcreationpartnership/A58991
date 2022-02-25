@@ -1,0 +1,776 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The second part of The amours of Messalina, late Queen of Albion wherein the secret court intrigues of the four last years reign are further pursued, particularly the imposture of the child / by a woman of quality ...</title>
+            <author>Woman of quality, fl. 1689-1690.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 47 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58991</idno>
+            <idno type="STC">Wing S2299</idno>
+            <idno type="STC">ESTC R38613</idno>
+            <idno type="EEBO-CITATION">19135330</idno>
+            <idno type="OCLC">ocm 19135330</idno>
+            <idno type="VID">108546</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58991)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 108546)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 475:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The second part of The amours of Messalina, late Queen of Albion wherein the secret court intrigues of the four last years reign are further pursued, particularly the imposture of the child / by a woman of quality ...</title>
+                  <author>Woman of quality, fl. 1689-1690.</author>
+                  <author>Leti, Gregorio, 1630-1701.</author>
+               </titleStmt>
+               <extent>[4], 42 [i.e. 32] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Lyford,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Sometimes attributed to Gregorio Leti. Cf. NUC pre-1956 imprints.</note>
+                  <note>A libel on Mary of Modena, Queen consort of James II. Cf. NUC pre-1956 imprints.</note>
+                  <note>Error in paging: p. 27-32 misprinted 37-42.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Mary, --  of Modena, Queen, consort of James II, King of England, 1658-1718.</term>
+               <term>Great Britain --  History --  1660-1714.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:108546:1"/>
+            <pb facs="tcp:108546:1"/>
+            <p>THE <hi rend="blackletterType">Second Part</hi> OF THE AMOURS OF
+Meſſalina Late Queen of <hi>ALBION.</hi> WHEREIN The Secret Court Intrigues
+of the Four laſt Years Reign are further purſued; Particularly the
+IMPOSTURE OF THE CHILD.</p>
+            <p>By a Woman of Quality, a late Confidant of Q.
+<hi>MESSALINA.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>John Lyford,</hi> 1689</p>
+         </div>
+         <div type="bookseller_to_the_reader">
+            <pb facs="tcp:108546:2"/>
+            <pb facs="tcp:108546:2"/>
+            <head>THE BOOKSELLER TO THE READER.</head>
+            <p>IT cannot be denied with how much Applauſe the <hi>Firſt
+Part</hi> of this Hiſtory has been re<g ref="char:EOLhyphen"/>ceived in the <hi>World,</hi> according
+to the merits of it, which is in part demonſtrable, from the Account moſt
+Bookſellers give of their being daily importun'd for the <hi>Second
+Part,</hi> and there having been but one Party appear'd againſt it,
+<hi>viz.</hi> the <hi>Pagans</hi> of <hi>Albion,</hi> the Publiſher begs to
+be ex<g ref="char:EOLhyphen"/>cus'd for being ſo Dilatory in Compleating this Hiſtory, not being
+able to bring in the Seerets of the <hi>LEAGUE,</hi> the <hi>Amours</hi> of
+<hi>MES<g ref="char:EOLhyphen"/>SALINA</hi> and <hi>Polydorus,</hi> and other In<g ref="char:EOLhyphen"/>trigues of the
+<hi>Gothick Court</hi> into this Part, on the account the Tranſlator hath
+lain under great Indiſpoſition of Body, for near theſe three Weeks
+paſt, and it was not thought adviſable to <pb facs="tcp:108546:3"/>interpoſe the
+ſtile of any other; but he being now on the mending hand, you may expect the
+<hi>Third Part,</hi> which Compleats the whole Hi<g ref="char:EOLhyphen"/>ſtory, with all the ſpeed
+imaginable; and he hopes it will prove in this as it does in
+<hi>Mi<g ref="char:EOLhyphen"/>ſtreſſes,</hi> whoſe put-offs and delays in matters of
+poſſeſſion, does but more whet on the Gal<g ref="char:EOLhyphen"/>lants Appetites; ſo that
+when they have once attained to Injoyment, it becomes ſo Raviſhing that
+their Lovers fancy themſelves amply re<g ref="char:EOLhyphen"/>warded for all their forbearance and
+expecta<g ref="char:EOLhyphen"/>tion.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:108546:3"/>
+            <head>The Second PART.</head>
+            <p>THE <hi>Pagans</hi> of <hi>Albion,</hi> had from the beginning of
+the Reign of <hi>Ly<g ref="char:EOLhyphen"/>cogenes</hi> with great aſſurance ex<g ref="char:EOLhyphen"/>pected ſome
+hapy, and ſpeedy overtures for their eternal ſettlement in that Kingdom;
+Nor had <hi>Lycogenes</hi> himſelf been wanting in his endeavours to
+over-rule or deſtroy all that pretended to oppoſe, or queſtion his
+proceedings againſt the Foundamental Rights of his Chriſtian Subjects, he
+had al<g ref="char:EOLhyphen"/>ready remov'd the moſt of them from all Places of Truſt, and
+contrary to the known Laws of the Land had introduced Perſons, by the ſaid
+Laws incapable to Serve; he had Rais'd and kept up an Army compoſ<g ref="char:EOLhyphen"/>ed of
+Mercenary's and Forreigners, not on<g ref="char:EOLhyphen"/>ly to Terrify, but upon the firſt happy
+occaſion to Oppreſs all that ſhould contra<g ref="char:EOLhyphen"/>dict his Reſolutions; he had
+for the firſt three years of his Reign, carry'd all things with ſo high a
+hand, that the People of <hi>Albion</hi> from the higheſt to the loweſt,
+were <pb n="2" facs="tcp:108546:4"/>in a ſtrange Confuſion to think of the diſmal
+conſequences that wonld neceſſari<g ref="char:EOLhyphen"/>ly flow from ſuch Arbitrary
+Proceedings: and though they had by the ſubtile Inſin<g ref="char:EOLhyphen"/>uations of a Court
+Party of Divines, been Poyſon'd with that pernicious poſition of
+Paſſive Obedience, yet they could not without a great deal of regret behold
+all the fences and incloſures of their Laws, and Libertiy's thrown down and
+tram<g ref="char:EOLhyphen"/>pled on, and be obliged to hold their Lives and Eſtates on ſo
+precarious Terms as the will and diſcretion of an Antichriſti<g ref="char:EOLhyphen"/>an pack'd
+Councel: what related to the private ſatisfaction of the King's humour they
+did with all humility, and unexpect<g ref="char:EOLhyphen"/>ed alaerity ſubmit and yield to, but when
+it was plain that the whole Kingdom was Deſign'd and Refolv'd a Sacrifice, to
+the Intereſt and Ambition of a few wicked Councellours, and a ſmall party
+of Men, that had been by publick Acts of the Realm declar'd the Inveterate and
+Irrecon<g ref="char:EOLhyphen"/>cileable Enemies of all Chriſtians but chief<g ref="char:EOLhyphen"/>ly of the
+<hi>Albionites,</hi> they then began to ſearch into the meaſures of their
+ſubmiſſi<g ref="char:EOLhyphen"/>on, and diligently to enquire how far they were obliged to pay
+Obedience to the Commands of their Magiſtrates and Gov<g ref="char:EOLhyphen"/>ernours; and realy
+upon the ſcrutiny they <pb n="3" facs="tcp:108546:4"/>plainly perceiv'd their own
+weakneſs, and the Impoſitions of their Enemies, who by this ſubtile
+Doctrine had enſnar'd them to ſet their Hands to and Sign as it were their
+own Deſtruction, ſeveral of the Great and Wiſeſt Men in the Kingdom,
+had been Debating on this Subject, and all concluded in an acknowledgment of
+their weakneſs in ſo manifeſtly expo<g ref="char:EOLhyphen"/>ſing themſelves and their
+Country to the Capricious Humours, or Tyrannical Prin<g ref="char:EOLhyphen"/>ciples that very often
+are found in the greateſt Princes, and therefore though from their very Souls
+they wiſh'd all hap<g ref="char:EOLhyphen"/>pineſs imaginable to their King and Go<g ref="char:EOLhyphen"/>vernor, yet they
+thought their duty ſtretch'd too far on the Tenter-hooks, when by a blind
+ſubmiſſion to irregular Commands they were oblig'd to forego the natural
+principles of ſelf preſervation, and that by ſeeking officiouſly to add
+to their Loyalty they muſt neceſſarily detract from their Judgments,
+Conſcience, and Honeſty: But <hi>Lycogenes,</hi> who by a dili<g ref="char:EOLhyphen"/>gent
+ſcrutiny, and long experience of the Natures of the people of
+<hi>Albion,</hi> (to his great ſatisfaction) knew how effe<g ref="char:EOLhyphen"/>ctually the
+Doctrin of <hi>Non-reſiſtance</hi> (which he and his party, with great zeal
+and in<g ref="char:EOLhyphen"/>duſtry had inſinuated and promoted) had <pb n="4" facs="tcp:108546:5"/>wrought on
+his Chriſtian Subjects, thought he had laid a very ſure foundation for the
+introduction of thoſe Novelties and Abu<g ref="char:EOLhyphen"/>ſes we have ſince had impos'd on
+us, and was by the aſſiduous Inſtigations of his <hi>Pagan</hi>
+Councellors prevail'd upon to re<g ref="char:EOLhyphen"/>ſolve the total Extirpation, or at leaſt
+en<g ref="char:EOLhyphen"/>ſlaving of the Chriſtian Hereticks, as he call'd them, in his Dominions,
+and fear<g ref="char:EOLhyphen"/>ing that all he could do in his own life time, would be inſufficient
+to aſſure and eſtabliſh the <hi>Pagan</hi> Faction and Intereſt,
+unleſs he could find ſuch a Succeſſour as ſhould confirm and
+ſtrengthen what he ſhould now begin, upon theſe Conſidera<g ref="char:EOLhyphen"/>tions, I
+ſay, he was eaſily wrought on to conſent to any thing his Counſellors
+ſhould propoſe for the benefit and eſtabliſhment of <hi>Paganiſm</hi>
+in the ſaid Kingdom, and now what more remain'd, than that the Prieſts
+conſult and find the moſt convenient and ſpeedy means to ſecure their
+own Intereſts to indulge <hi>Meſſelina</hi>'s Ambition, and to ſooth
+<hi>Lycogenes</hi> his Bigotted Zeal: Several ways were propos'd, and ſome
+time ſpent in Arguments and Debates before they could come to a final
+Reſolution.</p>
+            <p>The Chriſtians of <hi>Albion,</hi> by ſeveral Acts of their
+General Diets, had their Laws, their Liberties, and their Religion ſecur'd to
+<pb n="5" facs="tcp:108546:5"/>them, and in all, or moſt of their Aſſem<g ref="char:EOLhyphen"/>blies for one
+hundred years paſt, they had one or other expreſs Law againſt
+<hi>Paganiſm,</hi> though none did ſo throughly diſable and leſſen
+their intereſt in <hi>Albion</hi> as that com<g ref="char:EOLhyphen"/>monly call'd the
+<hi>Teſts;</hi> and though ſome good <hi>Chriſtian Diſſenters from
+the Church of</hi> Albion, were therein ſeverely included, yet they were
+chiefly intended for the diſ<g ref="char:EOLhyphen"/>couragement and ſuppreſſion of that
+per<g ref="char:EOLhyphen"/>nicious Sect of <hi>Pagans</hi> in <hi>Albion, Lycogenes</hi> his private
+Counſel therefore propoſed the taking <hi>away</hi> theſe
+<hi>Teſts,</hi> as a neceſſary Preliminary for the introduction of
+<hi>Pagan<g ref="char:EOLhyphen"/>iſm;</hi> the Project indeed was good, but how to bring it about,
+was the difficulty, for be<g ref="char:EOLhyphen"/>ſides that the general Diet would hardly be
+induc'd to abrogate thoſe very Laws which ſome of them ſo lately had
+ſtickl'd for and promoted, and ſuch Laws whereon their own and the Kingdoms
+ſecurity ſeem'd more <hi>immediately</hi> to <hi>depend</hi> (the
+<hi>Pagans</hi> having in all Reigns been proved the irreconcileable Enemys and
+malicious deſigners againſt the peace and welfare of the Chriſtians in
+<hi>Albion</hi>) beſides, I ſay, this difficulty, they were obliged to gain
+the conſent of Prince <hi>Anaximander</hi> and the Princeſs
+<hi>Artemiſia,</hi> the Preſumptive Hei<g ref="char:EOLhyphen"/>reſs of the Crown, for the
+Abrogation of the ſaid Laws, and this indeed was the <pb n="6" facs="tcp:108546:6"/>great
+buſineſs that ſtruck with <hi>Lycogenes,</hi> for as to what concern'd
+the election of ſuch Members as ſhould ſerve his turn in the next General
+Aſſembly, he bid them take no care, for he was ſure he could by his
+influence procure ſuch perſons return'd as ſhould effectually anſwer
+his utmoſt ex<g ref="char:EOLhyphen"/>pectations: With all ſpeed therefore per<g ref="char:EOLhyphen"/>ſons are employ'd
+to negotiate with the Prince and Princeſs for their conſent a<g ref="char:EOLhyphen"/>foreſaid,
+and to lay before them the ſince<g ref="char:EOLhyphen"/>rity of his Majeſty's Intentions in that
+mat<g ref="char:EOLhyphen"/>ter, and that his Majeſties great and only alm was for the more general
+accommo<g ref="char:EOLhyphen"/>dation of all his Diſſenting Subjects, and that as their
+Highneſſes could not believe that his Majeſty would reſolve on any
+thing to their prejudice, ſo he did not in the leaſt doubt of their
+Highneſſes ready concurrence in ſo pious an undertaking; but alas poor
+<hi>Lycogenes</hi> and his Penſiona<g ref="char:EOLhyphen"/>ry Counſel had far overſhot
+themſelves, when they believed ſo wiſe a Prince as <hi>A<g ref="char:EOLhyphen"/>naximander</hi>
+could beſo barefacedly decoy'd into an aſſent to a matter ſo
+neceſſarily and plainly prejudicial to his own and his Princeſſes
+intereſt, as well as to a Kingdom and People, they had reaſon to reſpect
+and take care of as their future loving Sub<g ref="char:EOLhyphen"/>jects, and preſent hearty
+Friends, they were not unacquainted with the meaſures <pb n="7" facs="tcp:108546:6"/>
+               <hi>Lycogenes</hi> had taken from the beginning of his Reign, ſo
+directly contrary to the Princeſs his Daughters Intereſt, and perni<g ref="char:EOLhyphen"/>cious
+and deſtructive to the Chriſtians, and that by pure force he had al<g ref="char:EOLhyphen"/>ready
+obtruded ſo many illegal things on his ſaid Chriſtian Subjects, that he
+won<g ref="char:EOLhyphen"/>dered <hi>Lycogenes</hi> could pretend to make him or his Princeſs
+inſtruments of their further oppreſſion and miſery; ſuch were the
+Princes reſentments, and ſuch was the reſult of <hi>Lycogenes</hi> his
+endeavours to make him and his own Daughter Parties for the Subverſion of
+Chriſtianity in <hi>Albion;</hi> and now immediately a grand Gonſult is
+cal<g ref="char:EOLhyphen"/>led to conſider of <hi>Anaximander</hi>'s reſoluti<g ref="char:EOLhyphen"/>ons, and of ſome
+other way to promote the grand concern: In the mean time
+<hi>Meſ<g ref="char:EOLhyphen"/>ſalina</hi> had been tormenting her ſelf with the Apprehenſions
+of her utter diſappoint<g ref="char:EOLhyphen"/>ment; for though ſhe had kept a conſtant
+correſpondence with the <hi>Count,</hi> ſhe could not yet perceive her
+affairs go on ſo pro<g ref="char:EOLhyphen"/>ſperouſly as ſhe had promiſed to her ſelf, and
+the loſs of ſo much time, to her Am<g ref="char:EOLhyphen"/>bition, did very much qualifie the
+ſatisfa<g ref="char:EOLhyphen"/>ction ſhe received in her Amour; howe<g ref="char:EOLhyphen"/>ver tho' ſhe had
+<hi>promiſed</hi> to repair to Art and Policy, to ſupply the <hi>preſent
+defects of Na<g ref="char:EOLhyphen"/>ture,</hi> ſhe could not reſolve to abandon the 
+<pb n="8" facs="tcp:108546:7"/>Love and Service of the <hi>Count:</hi> Nay, upon mature
+conſideration, ſhe concluded, that the continuation of her Amour with him,
+could not be any way prejudicial to the other deſign they were now
+undertaking, for ſuppoſing ſhe ſhould really <hi>conceive</hi> any
+conſiderable time after the feigned report of her being with Child, the
+ab<g ref="char:EOLhyphen"/>ſurdity of the report of this could not any way be prejudicial to the real
+truth of the other, the aſſured Birth of a Prince being all that could be
+expected or deſir'd; and conſequently, any reflections on the other would
+vaniſh as a miſtake, which Wo<g ref="char:EOLhyphen"/>men in ſuch caſes are very often
+ſubject to. The <hi>Marchioneſs de Tomazo,</hi> would daily encourage her
+belief of ſucceeding, and promiſed her aſſiſtance, by imparting to
+her a Secret to help Conception; the <hi>Queen</hi> was wonderfully pleas'd,
+even with the Flattery of the old Marron; but for fear of the worſt, was
+reſolv'd to have the other Project ſpeedily ſet on foot, ſhe went to
+the King's Apartment immediate<g ref="char:EOLhyphen"/>ly to hear what they had reſolv'd on, and how
+it was agreed to be manag'd, where ſhe found the truſty Cabal in hot and
+cloſe debate: She had order'd <hi>Aſpaſia,</hi> the <hi>Marchio<g ref="char:EOLhyphen"/>neſs de
+Tomazo,</hi> &amp; <hi>Father Pedro</hi> to be there, &amp; <hi>Lycogenes</hi>
+had introduc'd the <hi>Count</hi> &amp; <hi>Poli<g ref="char:EOLhyphen"/>orchetes</hi> 
+               <pb n="9" facs="tcp:108546:7"/>the Chief Commiſſioner of his <hi>Court of
+Conſcience,</hi> having <hi>exrerienc'd</hi> his Fidelity in matters of the
+<hi>greateſt</hi> importance, and had rais'd him to that high Station
+<hi>meerly</hi> to be an <hi>inſtrument</hi> in his <hi>future
+undertakings.</hi>
+            </p>
+            <p>
+               <hi>Lycogenes</hi> upon the Arrival of the <hi>Queen</hi> aroſe,
+requiring the Company not to ſe<g ref="char:EOLhyphen"/>parate till they had wholly concluded on the
+means and manner of new modeling and ſetling the Kingdom of <hi>Albion,</hi>
+the <hi>Queen</hi> likewiſe as ſoon as ſhe had ſeated her ſelf
+commanded them to give her an account of their Proceedings.
+<hi>Poliorchetes</hi> the Chancellor then riſing and making a profound
+reverence to the <hi>Queen,</hi> deliver'd his Opinion thus: 
+<q rend="inline">'It is not unknown, <hi>mighty Soveraign,</hi> how
+zealous I have been in bringing about and promoting whatſo<g ref="char:EOLhyphen"/>ever might be
+thought advantageous to your intereſt; nor do I now preſume to recount my
+Services for any other purpoſe than to manifeſt my gratitude and
+wil<g ref="char:EOLhyphen"/>lingneſs to engage again and again for e<g ref="char:EOLhyphen"/>ver on any action and deſign
+<hi>your Maje<g ref="char:EOLhyphen"/>ſties,</hi> or this Honourable Board, ſhall think meet to
+preſcribe; I know the wiſdom of this Noble Company, cannot be wanting to
+appoint ſuch Rules as ſhall for ever ſe<g ref="char:EOLhyphen"/>cure the <hi>Pagan</hi>
+intereſt in <hi>Albion,</hi> and ſa<g ref="char:EOLhyphen"/>tisfie <hi>your Majeſties</hi>
+utmoſt Expectation; <pb n="10" facs="tcp:108546:8"/>notwithſtanding ſince the nature
+of my Employments, and ſome years ſtrict en<g ref="char:EOLhyphen"/>quiery into the ways and
+Inclinations of the people of <hi>Albion,</hi> may with reaſon have render'd
+me capable of judging of the moſt ſecure, and convenient ways to deal with
+them. I ſhall not be thought vain if I preſume freely, to deliver my
+opinion in this Matter. The <hi>Albionites</hi> where they have received Graces
+or Favours from their Princes, are like the wanton Aſs in the Fable, ready to
+leap on their Maſter, and by the incouragement of two or three benefits, they
+ſawcily approach him with their ill natur'd Jeaſts, and conſtantly
+peſter him with their rude Importunities, but when too much Indulgence has
+ren<g ref="char:EOLhyphen"/>dred them Inſupportable, do but ſhow them the Rod, and like Children
+they ſhrink, and with patience ſubmit to the Juſtice of your Correction;
+You remem<g ref="char:EOLhyphen"/>ber their Inſolence in <hi>Perkin</hi>'s Rebellion, when with
+unbounded Blaſphemy they would threaten the Safety and Honour of our Royal
+Maſter, and yet the Sword of Juſtice was no ſooner unſheath'd againſt
+them, but with horror they fly, and call even to the Mountains to cover them,
+you have heard with what patience they ſub<g ref="char:EOLhyphen"/>mitted to their Tryals, and
+reproached <pb n="11" facs="tcp:108546:8"/>even my Sentence with their <hi>Baſe
+Servile</hi> Sufferings, my advice therefore is to fol<g ref="char:EOLhyphen"/>low the example of the
+Great <hi>Polydorus,</hi> to get an Army of <hi>Pagans</hi> from
+<hi>Iberia</hi> and <hi>Gothland,</hi> and ſo to Dragoon them into a civil
+compliance, Oh! that every year would produce a Weſtern Expedition, I'de
+ſoon rid the Kingdom of all our An<g ref="char:EOLhyphen"/>tagoniſt's, and make every Circuit more
+Terrible than an Inquiſition, we have too long nurſed them with the Milk of
+our Affection, and like the profligate <hi>Iſraelites</hi> they grumble at
+their <hi>Manna, Albion</hi> has Surfeited on Eaſe and Proſperity, and the
+Feavour can't abate but by leting of Blood, let us make a full Harveſt of
+theſe Hot<g ref="char:EOLhyphen"/>headed Chriſtians (as they boaſt them<g ref="char:EOLhyphen"/>ſelves) and at once
+root out theſe obſti<g ref="char:EOLhyphen"/>nate Diſturbers of our Peac: The Queen who was
+naturally of a malicious ſullen Temper, and who was not ignorant how
+ſtubborn and averſe the <hi>Albionites</hi> were to her Intereſt, had
+heard <hi>Poliorchetes</hi> ſpeak with a bundance of ſatisfaction, but
+being willing to hear what the reſt would propoſe, giving thanks to the
+Chancel<g ref="char:EOLhyphen"/>lour ſhe expected with impatience their Thoughts and Opinions. When
+<hi>Pedro</hi> riſ<g ref="char:EOLhyphen"/>ing up, ſaid he could not but Applaud the Zeal and
+Opinion of <hi>Poliorchetes,</hi> 
+                  <pb n="12" facs="tcp:108546:9"/>and wiſh'd that his
+deſign could be as eaſi<g ref="char:EOLhyphen"/>ly executed as propos'd, that his averſion and
+malice to the Chriſtians of <hi>Albion</hi> had inſpir'd him with ſuch
+deſires of Revenge, that with <hi>Nero</hi> he wiſh'd they had all but one
+Neck, and that he among his Frater<g ref="char:EOLhyphen"/>nity, did not doubt to find thouſands that
+would ſtrive to be their Executioner, but that to his ſorrow he fear'd the
+Chancel<g ref="char:EOLhyphen"/>lours project, however well deſign'd, would not be feaſible, for
+beſides the Alarm that Forreign Auxiliaries would raiſe through<g ref="char:EOLhyphen"/>out the
+Kingdom, the natural antipathy, that the <hi>Albionites</hi> had both to the
+<hi>Gauls,</hi> and <hi>Iberians</hi> was ſuch, that they would incontinently
+riſe to Repel and Deſtroy them, and that if thoſe Forreigners ſhould
+fail in their Attempt, the reproach of the deſign would be wholly thrown on
+<hi>Lyco<g ref="char:EOLhyphen"/>genes</hi> and his Court, and that it would beget ſo implacable a
+malice in the Heart of the <hi>Albionites</hi> (who were moſt of them
+Chriſtians) that he might juſtly fear a general revolt, and thereby the
+total ru<g ref="char:EOLhyphen"/>ine of the <hi>Pagan</hi> Intereſt in <hi>Albion</hi> for e<g ref="char:EOLhyphen"/>ver, his
+opinion therefore was, that they ſhould rather enſnare and delude them, and
+ſo at advantage cut them off and deſtroy them, tis known ſaid he how
+wonderfully our fraternity have promoted <pb n="13" facs="tcp:108546:9"/>the
+<hi>Mahometan</hi> Intereſt by their ſubtile and ſecret Plots and
+Contrivances, have not we by fomenting and raiſing Diviſions be<g ref="char:EOLhyphen"/>tween the
+Regular and Diſſenting <hi>Chriſti<g ref="char:EOLhyphen"/>ans</hi> in <hi>Albion</hi> more
+weakened the ſtrength of the pretended Reformado's than ever
+<hi>Polydorus</hi> by his Dragoons or Contributi<g ref="char:EOLhyphen"/>ons? <hi>Albion</hi> (with
+ſubmiſſion to the <hi>Chan<g ref="char:EOLhyphen"/>cellor</hi>) is not by publick Hoſtility to
+be forc'd, they are valiant in their Natures, and ſtubborn in their
+Principles, and though the hopeful Doctrine of <hi>Paſſive Obedience</hi>
+and <hi>ſweet Non-reſiſtence</hi> has been uſeful unto us, and lull'd
+them for a while, yet it may be dangerous to raiſe thoſe <hi>ſleeping
+Lions</hi> within them, leſt we too late <hi>repent</hi> our over-fond
+Credulity, and to our ſorrow feel the effects of their
+<hi>reſent<g ref="char:EOLhyphen"/>ments;</hi> ſet your Policies on work if you wiſh to prevail,
+and if you muſt <hi>ſtrike,</hi> let it be in the <hi>dark;</hi> we all of
+us know we are ſick, and out of order, but few of us con<g ref="char:EOLhyphen"/>ſider the root and
+cauſe of our diſtemper, all diſintereſſed perſons would think at
+firſt view, that we were now in a hopeful way of thriving, we have a King not
+only a <hi>Pagan</hi> and our Friend, but zealous and reſolv'd to go through
+with his work; but alas is reſolution ſufficient without means? Tis true,
+by his power he can ſecure us for <pb n="14" facs="tcp:108546:10"/>a while; but what will
+that ſignifie to a laſting ſatisfaction? How do our Enemies wait and gape
+for his death? And with the hopes of revenge after his diſſolution they
+patiently ſubmit to their preſent Impoſiti<g ref="char:EOLhyphen"/>ons; we know the main Pillars
+whereon they all lean, <hi>Anaximander</hi> and <hi>Artemiſia</hi> are their
+delight and their hope, the Prin<g ref="char:EOLhyphen"/>ceſs <hi>Philadelphia</hi> waits too in
+reverſion, and from <hi>theſe three</hi> do ſpring all our fears and
+misfortunes, and I and my Brethren bear the Title of our great Prophet, and
+ſuffer his Cauſe to be ſhaken by the weak inter<g ref="char:EOLhyphen"/>ceſſion of <hi>three
+ſingle Lives;</hi> Oh Holy <hi>Loy<g ref="char:EOLhyphen"/>ola,</hi> our firſt Holy Patron and
+Foander, how would thy mighty Spirit fret and and grieve within thee,
+ſhouldſt thou ſee the <hi>degenerate baſeneſs</hi> of thy unworthy
+Followers? Where are the Records of all our Glorious Heros that have trod on
+the Necks of Emperors, and pierc'd the Hearts of Kings, to propagate and
+vindicate our Holy Religion, can we forget <hi>Borgia, Cle<g ref="char:EOLhyphen"/>ment, Ravilliac</hi>
+and others, who have free<g ref="char:EOLhyphen"/>ly Sacrific'd themſelves for their Religion, and
+for reaſons leſs conſiderable than ours, and can we tamely remit all our
+preſent Advantages, and be bafled of our <hi>future hopes,</hi> by the weak
+puny oppoſition of <hi>three petty pretenders?</hi>'</q> No, no, continued 
+<pb n="15" facs="tcp:108546:10"/>he, let us lay hold on the <hi>preſent</hi> opportu<g ref="char:EOLhyphen"/>nity,
+and at once finiſh our long wiſh'd for deliverance: Theſe <hi>three</hi>
+muſt fall a Sa<g ref="char:EOLhyphen"/>crifice to our Prophet, and from the re<g ref="char:EOLhyphen"/>moval of that cauſe
+will all our other Ap<g ref="char:EOLhyphen"/>prehenſions ceaſe.</p>
+            <p>Father <hi>Pedro</hi> had always bore ſuch re<g ref="char:EOLhyphen"/>putation with
+<hi>Lycogenes</hi> and <hi>Meſſalina</hi> that they look'd on his
+Counſels little inferiour to Oracles, and though the execution of them had
+always prov'd prejudicial, through their great violence, to the <hi>Pagan</hi>
+Intereſt, yet they could not but value the ſincerity of his meaning, and
+always ap<g ref="char:EOLhyphen"/>plauded his wiſe apprehenſions, they knew his propoſals in this
+Zealous Oration were very conſonant to reaſon, and agreeable to their true
+intereſt, but knowing that the Eyes of all <hi>Europe</hi> were upon theſe
+three Princes, and that the leaſt baſeneſs and impoſition upon them
+would engage all <hi>Chriſtendom</hi> in their quarrel, they could not ſo
+readily <hi>conclude,</hi> or reſolve upon any violence againſt their
+perſons; beſides, <hi>Pe<g ref="char:EOLhyphen"/>dro</hi> in a ſmall Apology afterwards
+inſinua<g ref="char:EOLhyphen"/>ted to the Company, the <hi>inconvenience</hi> of letting the King
+know any thing of this Project, if happily they ſhould all agree upon it.
+<hi>For</hi> (ſaid he) <hi>though I know</hi> Ly<g ref="char:EOLhyphen"/>cogenes<hi>'s Zeal would
+make him overlook a <pb n="16" facs="tcp:108546:11"/>thouſand difficulties, yet nature and
+conſcience could not with any decency or reaſon be ſuppos'd capable of
+being ſo wholly obliterated as to con<g ref="char:EOLhyphen"/>ſent to any barbarity upon the
+perſons of his own children; but again, what may prove a ſufficient ground
+of ſcruple in him, may at the ſame time leave us free and
+diſintereſſed from every thing and perſon that ſtands in oppoſition
+to our deſigns.</hi> The Company however upon the Conſiderations
+aforeſaid were very unwilling to engage in <hi>Pedro</hi>'s Reſo<g ref="char:EOLhyphen"/>lutions or
+Propoſals, and incontinently deſir'd the <hi>Marchioneſs de Tomazo,</hi>
+to give her opinion of this grand Affair. The <hi>Marchioneſs</hi> who had
+<hi>been</hi> a Woman of Amour moſt of her time, and who now, though
+<hi>Age</hi> had <hi>ungenerouſly</hi> depriv'd her of <hi>the power to
+pleaſe,</hi> was very fond and Ambitious of being thought a Woman of
+<hi>Intrigue,</hi> had heard the violent Counſels, and Propoſals of the
+<hi>Chancellor</hi> and Father <hi>Pedro</hi> with a great deal of
+<hi>impatience</hi> and <hi>diſpleaſure;</hi> ſhe could not digeſt
+thoſe rough and hard terms of cutting of Throats, Poyſoning, or
+Aſſaſſinations, ſhe had been always us'd to Amorous Sighs, <hi>Billet
+deux,</hi> and Aſſignations; therefore riſing and ma<g ref="char:EOLhyphen"/>king her Compliment
+to <hi>Meſſalina,</hi> and giving a hard look on <hi>Poliorchetes</hi> and
+<hi>Pedro,</hi> 
+               <pb n="17" facs="tcp:108546:11"/>ſhe thus began: <hi>'Tis not without the
+greateſt regret imaginable, that I find my ſelf obliged to contradict
+perſons whoſe known wiſdom and experience in the world may with reaſon
+claim an entire ſubmiſſion of judgment from me, and though the command
+and ſervice of her Majeſty, may ſufficiently apologize for the freedom
+and liberty of my opinion, yet I doubt not from the nature of the buſineſs
+in hand to prove that what both theſe honourable perſons have delivered as
+their opinions, if fol<g ref="char:EOLhyphen"/>lowed, will be inconſiſtent with the ſafety of her
+Majeſty, prejudicial to the</hi> Pagan <hi>inte<g ref="char:EOLhyphen"/>reſt in</hi> Albion <hi>for
+ever, and extreamly difficult, if not impoſſible to be brought about; nor
+do I need to ſay much to diſſwade this Honourable Company from the
+following their propoſals, ſince</hi> Father Pedro <hi>has already evine'd
+and made clear the fallacy of the</hi> Chancellor<hi>'s pro<g ref="char:EOLhyphen"/>ject, and the
+reſt of the Company have ſuffici<g ref="char:EOLhyphen"/>ently ſhew'd their diſlike of
+Father</hi> Pedro<hi>'s; I ſhall now therefore proceed to give my opinion,
+and if I ſhall have the good fortune to convince your reaſons, and draw you
+into a concurrence, you will then be ſo juſt to believe that the free<g ref="char:EOLhyphen"/>dom
+of my cenſure proceeds from other cauſes than that of meer contradiction;
+we all agree in the main point, that ſome courſe muſt be ta<g ref="char:EOLhyphen"/>ken for
+re-eſtabliſhing and ſecuring the</hi> Pagan <hi>Intereſt in</hi>
+Albion, <hi>ſo as that it ſhould not <pb n="18" facs="tcp:108546:12"/>ſeem entirely to
+depend on the uncertain life of the</hi> King, <hi>and though the opinion of my
+ſelf and the</hi> Count Davila, <hi>who doubtleſsreceives all his
+meaſures from the Conclave, and from</hi> Boanerges <hi>the High-prieſt,
+have been by theſe two Gentlemen oppoſed, at leaſt neglected, yet I have
+not been ſo apprehenſive as to hear any new thing propoſed, as is capable
+of making me or the</hi> Count <hi>recede from our former reſoln<g ref="char:EOLhyphen"/>tions, I am
+ſure if it take 'tis the only effectual way to preſerve us entire; I am as
+ſure 'tis as eaſie, as in a matter of that importance can be wiſh'd, it
+may be brought about with ſo little diſcompoſure of the publick peace,
+that it ſhall rather gain the general applauſe of the King<g ref="char:EOLhyphen"/>dom; will not
+the attaining our deſires anſwer all expectations? what neceſſity of
+cutting thoſe Throats which with abundance of eaſe we can make
+inſtrumental and acceſſary to our deſigns, the ſuppoſition of an
+Heir Male quaſhes all o<g ref="char:EOLhyphen"/>ther pretenders in a moment; and ſurely</hi> Albion
+<hi>is not ſo barren or ill natur'd as to deny</hi> Ly<g ref="char:EOLhyphen"/>cogenes <hi>a Son. No,
+no,</hi> (replys <hi>Poliorchetes,</hi> interrupting the
+<hi>Marchioneſs</hi>) <hi>we have daily experience of the fruitfulneſs of
+the Women of</hi> Albion, <hi>but yet we cannot apprehend how</hi> Ly<g ref="char:EOLhyphen"/>cogenes
+<hi>can expect to reap where he has not had the power, or the will to ſow:
+The will in<g ref="char:EOLhyphen"/>deed</hi> (ſaid <hi>Aſpaſia</hi> ſighing) <hi>I believe her
+Majeſty can vouch for, but to the ſorrow and <pb n="19" facs="tcp:108546:12"/>confuſion of us all, he wants the power: Let us then</hi> (continued
+the <hi>Marchioneſs</hi>) <hi>no lon<g ref="char:EOLhyphen"/>ger deplore, but endeavour to ſupply
+thoſe un<g ref="char:EOLhyphen"/>fortunate defects of the King our Maſter, con<g ref="char:EOLhyphen"/>ſider on what nice
+points our Honour and Inte<g ref="char:EOLhyphen"/>reſt depend, time will not ſtay for vain and
+fruitleſs wiſhes, and if we ſlip ſo fair an oppor<g ref="char:EOLhyphen"/>tunity, we ſhall
+ſeem to deſpiſe providence, ruine our intereſt for ever, and fall the
+reproach of our Enemies, and unpitied by all the</hi> Pa<g ref="char:EOLhyphen"/>gans <hi>throughout
+the World. Polyorchetes</hi> had heard theſe laſt words with wonderful
+ſurpriſe, for his thoughts having run wholly on the extirpation of the
+<hi>Chriſtians</hi> by Fire and Sword, he had not ſo much as dream'd of any
+poſſibility of milder means, and now gueſſing at what the
+<hi>Marchioneſs</hi> had inſinuated, he was ex<g ref="char:EOLhyphen"/>treamly tickl'd with the
+project, and de<g ref="char:EOLhyphen"/>ſired the <hi>Marchioneſs,</hi> That ſince ſhe had
+propos'd ſomething extraordinary, ſhe would be pleas'd to explain her
+ſelf, ſo as that they might endeavour to ſolve any difficulties that
+might ariſe upon a ſtrict examination of the deſign: <hi>The
+difficulty's</hi> (reply'd the <hi>Marchioneſs</hi>) <hi>are ſo ſmall, in
+compariſon of that advantage we ſhall reap, that among us they will not
+admit of a diſpute; be<g ref="char:EOLhyphen"/>ſides, we have had a preſident of what I
+propoſe, which though it miſcarried in the main, yet it <pb n="20" facs="tcp:108546:13"/>was not for want of power, but will of ſome Partys concerned to
+bring it about; That an Heir is abſolutely neceſſary to confirm and
+ſet<g ref="char:EOLhyphen"/>tle our otherwiſe fading hopes we all agree; and ſhall not we
+ſubmit to neceſſity, and endeavour to reſtore by art what envious
+nature, or curſt fortune have ruin'd or withheld? It muſt be ſo,</hi>
+(reply'd <hi>Meſſalina</hi>) <hi>it muſt be ſo, and there is no other
+to uphold my tottering Crown: It muſt be ſo, and yet my boding Soul
+foretells it won't ſucceed; theſe ſaucy</hi> Albionites, <hi>will ſtill
+be prying, and every ſtep I make will have re<g ref="char:EOLhyphen"/>marks. Rejoyce, Dread
+Soveraign,</hi> (reply'd <hi>Polyorchetes</hi>) (who had already taken that
+hint) <hi>the</hi> Marchioneſs <hi>has in one word fini<g ref="char:EOLhyphen"/>ſhed what the
+united ſtrength of my dull brain could ne're attempt, but now the game is up,
+I'll keep the ſcent, and work it on to a deſired perfection. Why ſhould
+your Majeſty</hi> (re<g ref="char:EOLhyphen"/>ply'd <hi>Pedro</hi>) <hi>deſpair at all of due
+ſucceſs? Does your Majeſty want power, or friends, or oppor<g ref="char:EOLhyphen"/>tunity to act
+what a Predeceſſor and Nameſake with ſo much diſadvantage had
+effected if</hi> Philippo <hi>had prov'd but half ſo generous as is the
+brave</hi> Lycogenes: <hi>Can you doubt the ſucceſs of any Enterpriſe
+when you have ſo pow<g ref="char:EOLhyphen"/>erful aſſiſtance even from your Enemies? Could
+ſhe carry on a deſign of the ſame nature even to the brink of
+performance, ſo as to amuſe, nay, to convince all orders of the Kingdom of
+the <pb n="21" facs="tcp:108546:13"/>reality of it? And can you doubt at laſt of fail<g ref="char:EOLhyphen"/>ing?
+She had a ſharp-ſighted Parliament, near five hundred of the wiſeſt in
+the Kingdom to combat with, who were ſtrict in their obſer<g ref="char:EOLhyphen"/>vance,
+ſuſpicious of her dealing, and reſolute againſt any impoſition; ſhe
+had the Nobility on one hand, the King her Husband of the other; and yet ſhe
+baffled all but that narrow-hearted Prince, who like the Dog in the Manger
+could neither eat the Hay himſelf, nor would ſuffer the Horſes; he had
+ſeen himſelf incapable of re<g ref="char:EOLhyphen"/>eſtabliſhing the</hi> Pagan <hi>intereſt
+by the aſſurance of an Heir, and was ſo covetous and mean as to hinder
+the propagation of it by another, whereas your Majeſty ſtands on ſure
+grounds, you have a ſtrong party in the Court of wiſe and able men to
+adviſe you, you have a potent Army ready to protect and defend you, but above
+all you have a Husband and a King to aſſiſt, and further you; who dares
+even ſuſpect you? who would preſume to prove you? By your word, you
+create an Heir, and your command ſettles the King<g ref="char:EOLhyphen"/>dom for ever.</hi> Thus
+<hi>Pedro</hi> ſpoke, and a general applauſe run through the whole Company,
+there remain'd only <hi>Aſpaſia</hi> and the Queen to give their Sentiments
+and Opinions, and <hi>Aſpaſia</hi> declaring in ſhort, that Father
+<hi>Pedro</hi> had wholly ſatis<g ref="char:EOLhyphen"/>fied her thoughts and deſires in this
+jun<g ref="char:EOLhyphen"/>cture, and that ſhe wholly ſubmitted to <pb n="22" facs="tcp:108546:14"/>the
+judgment of the Queen. <hi>Meſſalina</hi> raiſing her ſelf, briefly
+gave her reſolution thus: <hi>Nothing can give us greater encou<g ref="char:EOLhyphen"/>ragement and
+aſſurance of ſucceſs, than the zeal and fidelity of you our beloved
+Counſellors, and ſince our buſineſs preſſeth for a ſpeedy
+con<g ref="char:EOLhyphen"/>cluſion, I ſhall need ſay no more, than that I do, and ſhall
+aſſent to what the Majority of you,</hi> viz. <hi>the</hi> Marchioneſs de
+Tomazo, Aſpaſia, <hi>and</hi> Pedro <hi>have laid down; there remains
+therefore no more but that you imme<g ref="char:EOLhyphen"/>diately conſult of the manner and method
+of bringing it on, and from time to time to commu<g ref="char:EOLhyphen"/>nicate your advice to us; I
+adviſe and think fit that</hi> Boanerges <hi>the High Prieſt our moſt
+Holy Kinſman, have timely notice of your pro<g ref="char:EOLhyphen"/>ceedings, as alſo</hi>
+Polydorus <hi>our Royal Friend and Ally, that they may take care to order
+Af<g ref="char:EOLhyphen"/>fairs in Forreign Parts, ſo as that we may have the univerſal
+aſſiſtance of all our Friends to promote a Project ſo highly
+advantageous to all their Intereſts.</hi>
+            </p>
+            <p>This gracious Speech and Condeſcen<g ref="char:EOLhyphen"/>tion was received with
+unſpeakable joy by the Counſel, and Father <hi>Pedro</hi> ſtepping to the
+Door, gave orders for private Thankſgiving throughout all the
+<hi>Moſques</hi> in <hi>Albion,</hi> as alſo for Proceſſions, Feaſts,
+and other expreſſions of joy; and having again ſeated himſelf, they
+immediately <pb n="23" facs="tcp:108546:14"/>fall cloſe to the point. The firſt
+buſineſs they reſolve on is, That being five in number, <hi>viz.</hi> the
+<hi>Count, Pedro, Polyor<g ref="char:EOLhyphen"/>chetes,</hi> the <hi>Chancellor,</hi> the
+<hi>Marchioneſs de Toma<g ref="char:EOLhyphen"/>zo,</hi> and <hi>Aſpaſia,</hi> they ſeverally
+have ſeveral Employments and Offices aſſigned them, for the more
+effectual and ſpeedy accom<g ref="char:EOLhyphen"/>pliſhment of their buſineſs. The
+<hi>Count</hi> who by his Office and Intereſt with <hi>Boa<g ref="char:EOLhyphen"/>nerges,</hi> could
+claim a Domination over the <hi>Pagan</hi> Prieſts, was to ſummon a
+Con<g ref="char:EOLhyphen"/>vocation, and to give them inſtructions how to diſperſe the News of
+her Con<g ref="char:EOLhyphen"/>ception, and to inſinuate, as if by Divine Inſpiration they knew it
+would be a Prince, as alſo to quaſh any Objections or Doubts concerning it,
+and to make re<g ref="char:EOLhyphen"/>marks of the perſons: Father <hi>Pedro</hi> was to be made one
+of the Privy-Council, and as he was one of the chief Contrivers at firſt,
+ſo now he was to enliven and con<g ref="char:EOLhyphen"/>firm the report of the Queens Conception at
+the publick Board, and to repreſent it with all the ſeeming Candour
+imagina<g ref="char:EOLhyphen"/>ble, he was to ſilence all Diſputes and Conteſts that might
+happily ariſe upon it, and to make motions to the Board, to give ſuch order
+concerning her Majeſty, and the Child, as ſhould gain a General 
+<pb n="24" facs="tcp:108546:15"/>Approbation and belief throughout the Kingdom, and though
+there aroſe a Con<g ref="char:EOLhyphen"/>troverſie whether it were not fitter for ſome other
+<hi>Pagan</hi> Lords of <hi>Albion</hi> to e<g ref="char:EOLhyphen"/>ſpouſe this part, yet they
+ſoon concluded on the ability of <hi>Pedro,</hi> who was better qualify'd to
+repreſent it in handſom Co<g ref="char:EOLhyphen"/>lours, and conſequently would go down the
+glibber, and paſs ſecure with the peo<g ref="char:EOLhyphen"/>ple, ſeeing they had ſo good
+Vouchers as Privy-Councellors: The <hi>Chancellor</hi> being a Man of an
+hardned Conſtitution, was appointed to wait with diligence againſt the time
+of the pretended Birth, and by a poſitive Aſſeveration, if any
+ſuſpicion ſhould ariſe (as in all Cheats probably may happen) he was to
+maintain the <hi>Rem in Re,</hi> which from ſo grave a perſon as the chief
+Judge of Conſcience, would ſurely be believ'd, and as readily aſſented
+to, as the words of an Oracle: <hi>Aſpaſia</hi> be<g ref="char:EOLhyphen"/>ing concern'd ſo near
+<hi>Meſſalina</hi> as Lady of the Bed-Chamber, <hi>&amp;c.</hi> She was to
+Careſs the Ladys with the joyful News of the Queens Conception, and from time
+to time inſinuate paſſages belonging to Child-bearing, to give an account
+of the growth of the Burthen, and to make the thing feaſible ſhe was to
+carry. <pb n="25" facs="tcp:108546:15"/>on a ſuſpicion or fear of a Miſcarriage, and
+it being once granted that ſhe could poſſibly Miſcarry, included the
+belief that ſhe was really Teeming: And now there was none but the
+Marchioneſs remaining, who being a Woman, as is before ſaid, of a quick
+Judgment in Intrigues, and who knew well how to manage an Impoſture of that
+nature, it was laid upon her with Secrecy and Aſſurance to procure two or
+three young wholſome Women whoſe time of Delivery ſhould critically agree
+with the Queen's time allotted and ſet down by this Councel; the
+Marchioneſs was not diſſatisfied with the Task, though ſhe could not
+but be ſenſible it requir'd depth of Judgment, a great deal of diſ<g ref="char:EOLhyphen"/>creet
+Enquiry, and continual Care to manage them to a Hairs breadth, leſt any
+unlucky accident might ſpoil the whole Intregue, but upon a little
+conſideration ſhe remembred ſhe had heard an Inkling of a young
+Kinſwoman of her own, how that through weakneſs ſhe had been forc'd to
+ſurrender her Virginity to the Aſ<g ref="char:EOLhyphen"/>ſaults of a young Spark, who had
+ſince forſaken her, and had withal leſt her a ſure pledg of his Love
+and Vigour, ſo that being ſo well encouraged at firſt ſhe readily
+ſubmits to the Commands of the <pb n="26" facs="tcp:108546:16"/>Board, and engages upon
+Honour to an<g ref="char:EOLhyphen"/>ſwer their Expectation; and now the ge<g ref="char:EOLhyphen"/>nerals being concluded on
+and appointed, they diſperſe, and forthwith apply them<g ref="char:EOLhyphen"/>ſelves to their
+ſeveral Employments, and as a Prologue to their intended Villany, they give
+out, among their own Party, at leaſt, the neceſſity of Unity in their
+Prayers to their Saints and the Deity, to ſend their Majeſty's an Heir to
+ſucceed him in his Throne and Dominions, and to ſettle their Holy Religion
+in this Heretical Land, they cauſe Proceſſions and Pilgri<g ref="char:EOLhyphen"/>mages,
+Offerings and Supplications, to be made, firſt to the great Saint at
+<hi>Loretto,</hi> then to St. <hi>Winifred;</hi> and they cauſe
+<hi>Meſ<g ref="char:EOLhyphen"/>ſalina</hi> to repair to ſeveral Waters that are famous Antidotes
+againſt Barrenneſs, thô at the ſame time they did not conſider
+that the People look'd upon it very awkard and ſtrange, that the Queen had
+never found out this way of preparing for Child<g ref="char:EOLhyphen"/>bearing before; but ſuch are
+the practices of the Pagan Religion, that the greateſt Villanies and
+Rogueries they intend to commit are ſtill preceded and uſher'd in with
+great appearances of Sanctity; and now all things being in a readineſs; the
+Queen declares her ſelf publickly to be with Child, and Orders were given for
+<pb n="37" facs="tcp:108546:16"/>publick Thankſgiving throughout the Iſles, and in other
+Forreign parts; Rejoycings and Feaſtings were made by the Kings Reſidents
+and Ambaſſadors; eſpecially in <hi>Rome</hi> and <hi>Gaule;</hi> as if it
+were not enough to impoſe ſo great a Villiany on the whole Kingdom, without
+enforcing them to pre<g ref="char:EOLhyphen"/>varicate with the Deity in their Prayers, and to make
+Petitions for that which really was not; but notwithſtanding all the
+Contri<g ref="char:EOLhyphen"/>vance and Advice to carry on this Intrigue, the People, eſpecially the
+Chriſtian Nobles and Gentry of <hi>Albion</hi> were mightily ſur<g ref="char:EOLhyphen"/>priſed
+with ſo improbable an Accident; &amp; though by reaſon of an
+Indiſpoſition, which <hi>Meſſalina</hi> for ſome while before lay
+under, the Kings weakneſs and other circumſtan<g ref="char:EOLhyphen"/>ces, they could not readily
+free them<g ref="char:EOLhyphen"/>ſelves from a ſuſpicion of Treachery, yet they reſolv'd to
+bear themſelves with all moderation, and to have a diligent Eye upon
+<hi>Meſſalina</hi> and all about her, the firſt real occaſion of
+diſlike was, that the Queen did not treat the Chriſtian Ladies of
+<hi>Albion,</hi> eſpecially the Princeſs <hi>Philadelpha,</hi> with that
+freedom as the joy and pride of ſo great a happineſs, if real, would
+naturally have prompted her to; for ſhe would re<g ref="char:EOLhyphen"/>ſent it highly if ſhe
+could but obſerve any of the Chriſtians making the leaſt obſerva<g ref="char:EOLhyphen"/>tions 
+<pb n="38" facs="tcp:108546:17"/>of her Breaſts, Belly, her Look, or any other Symptome,
+by which Women in that Condition are eaſily diſtinguiſhed; another great
+reaſon was, that ſhe ſeem'd to ſlight the Pretenſions of the
+Princeſs <hi>Artemiſia,</hi> ſo as there was not the leaſt intimation
+given her to be at the Queens Labour till within a very few days before ſhe
+was Deliver'd; beſides, the Confidence of the <hi>Pagan</hi> Party did
+ſtrangely ſtartle the People, when like Oracles they would affirm that of
+neceſſity it muſt be a Prince: Theſe and many other material
+circum<g ref="char:EOLhyphen"/>ſtances made the <hi>Albionites</hi> talk broadly of the buſineſs;
+nor were <hi>Lycogenes</hi> and <hi>Meſſalina</hi> ignorant of their
+Sentiments; however having the Power abſolutely in their hands, they were
+reſolved to cut that knot which they found impoſſible to untie, and
+ſince they had thus far advan<g ref="char:EOLhyphen"/>ced in a buſineſs of that importance, they
+reſolv'd to go through and bring it about, though with a thouſand
+abſurdities and in<g ref="char:EOLhyphen"/>coherences; for beſides the alteration of her Reckoning,
+which proceeded partly from a fear of diſappointment if the Wo<g ref="char:EOLhyphen"/>man that came
+firſt ſhould have brought forth a Girl, but chiefly to amuſe the
+Nobi<g ref="char:EOLhyphen"/>lity and Gentry of the Court and King<g ref="char:EOLhyphen"/>dom, who would doubtleſs have made
+<pb n="39" facs="tcp:108546:17"/>it their buſineſs in behalf of the Princeſs
+<hi>Artemiſia</hi> and the Kingdom, to attend and watch that all things might
+have been carryed fairly and above<g ref="char:EOLhyphen"/>board; I ſay, beſides the alteration of
+her reckoning ſhe would give out upon every turn different places of her
+pretended lying-in, ſometimes ſhe would give orders for <hi>R—d,</hi>
+at other times ſhe would remove her fancy to <hi>H—</hi> Court, but in
+reality St. <hi>Jaques</hi> was the place reſolv'd on, for <hi>Alba
+Regalis</hi> the whole party diſ<g ref="char:EOLhyphen"/>allow'd, becauſe by reaſon of the
+multitude and concourſe of People that conſtantly at<g ref="char:EOLhyphen"/>tend there, ſhe
+could not poſſibly have been ſo privately Deliver'd as the Intrigue did
+neceſſarily require; beſides, there was no conveniency for the Child to
+be brought through the Galleries or Lodgings, but in the Palace of St.
+<hi>Jaques,</hi> there was a Se<g ref="char:EOLhyphen"/>raglio and a Moſque adjoyning with abun<g ref="char:EOLhyphen"/>dance
+of winding by dark Chambers, ſecret Paſſages, Trap-doors and dark
+Corners, where not only one or two of the Women were with great ſecurity and
+ſecrecy kept till the time of their delivery, but where the Queen might have
+the Child foiſted into her Bed reaking and hot from the Womb, but in the heat
+of all this in<g ref="char:EOLhyphen"/>trigue and deſign <hi>Lycogenes</hi> was unlucki<g ref="char:EOLhyphen"/>ly 
+<pb n="40" facs="tcp:108546:18"/>put in mind that by the Laws of <hi>Albion</hi> the
+preſence of one or more of the Chriſti<g ref="char:EOLhyphen"/>an Prelates was to be at the Birth
+of every Royal Infant indiſpenſably required; to reſolve this difficulty
+a Council is immedi<g ref="char:EOLhyphen"/>ately call'd, and after ſundry debates it is concluded,
+that ſome way or other muſt be found to bring all or moſt of the
+diſſent<g ref="char:EOLhyphen"/>ing part into a premunire, and ſo by ag<g ref="char:EOLhyphen"/>gravation either to
+endanger their lives, or at leaſt to clap them up and ſecure them till the
+Queens Delivery; accordingly a flaw was immediatly found and the Prelates
+forthwith confin'd: and now nothing but the preſence of the Prin<g ref="char:EOLhyphen"/>ceſs
+<hi>Philadelpha</hi> was fear'd, but what can<g ref="char:EOLhyphen"/>not the craft of the wicked
+Jebuſites bring about? that Princeſs had unfortunately complain'd of ſome
+ſmall indiſpoſition, when the Queen immediately takes the hint, and by
+the means of <hi>Pedro</hi> and ſome other Malecontents, ſhe prevails with
+her Phyſician to perſwade her to take a Jour<g ref="char:EOLhyphen"/>ney to the Waters of
+<hi>Baijae,</hi> though the Operation of thoſe Waters was manifeſt<g ref="char:EOLhyphen"/>ly known
+to be contrary to the Princeſs's Diſtemper, they being looſening, and
+ſhe wanting Reſtringents, but her abſence was abſolutely neceſſary,
+and therefore by any means to be obtain'd; the Princeſs <pb n="41" facs="tcp:108546:18"/>according to their wiſhes leaves the Court, and they were reſolv'd
+to do their buſineſs before her return; and now all things to appearance
+ſeem'd to favour the deſign, the time preſcrib'd drew near, their
+greateſt Adverſaries were remov'd, the Court Party, and Pagan Prieſts,
+with daily Sto<g ref="char:EOLhyphen"/>ries and Shams were amuſing and taking off the attention of
+the Chriſtians; all things ſeem'd ſmooth, and the Critical Minute was at
+hand, when news was brought to <hi>Meſſalina,</hi> that one of the Women
+was in Labour, immediately the Queen takes her Chair, and haſtes over to St.
+<hi>Jaques,</hi> but before ſhe had well aſcended the Stairs, ſhe was
+told, that Woman had brought forth a Girl, with which being for the preſent
+confounded, ſhe deſcends, leaving before ſuch Orders as were
+neceſſary; the other Women ex<g ref="char:EOLhyphen"/>pecting their Times Daily and Hourly; and
+in<g ref="char:EOLhyphen"/>deed ere three Days were over ſhe receiving ano<g ref="char:EOLhyphen"/>ther Summons, repair
+forthwith to St. <hi>Jaques,</hi> ſhe ſtays there all Night with long
+expectation of Succeſs, early the next Morning ſhe receives the glad
+Tidings that a Man Child was Born, which with all ſpeed was convey'd to the
+Dormitory ad<g ref="char:EOLhyphen"/>joining to her Bed-Chamber, in the ſame reeking Circumſtances
+it was Born in, and having before taken care for the conducting of it to the
+Queens Bed, the Alarm is given at <hi>Alba Regalis,</hi> that the Queen was in
+Labour; <hi>Lycogenes</hi> had that Morn<g ref="char:EOLhyphen"/>ing roſe ſomething earlier than
+ordinary, and had croſt over to his own ſide on purpoſe to draw off the
+Men with him, and conſequently to favour the Cheat, by leaving as few as
+poſſible about the Queens Apartment; in the mean time Madamoi<g ref="char:EOLhyphen"/>zell <hi>de
+W—s</hi> having before given the Infant a ſmall Opiate to hinder its
+Crying for the preſent lays it gently in a large Warming-Pan made on 
+<pb n="42" facs="tcp:108546:19"/>purpoſe, and lin'd with velvet for the more com<g ref="char:EOLhyphen"/>modious
+and eaſie carriage, and the Queen riſing under pretence of giving liberty
+for warming the Bed Madomo<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>elle
+unlades her veſſel and leaves the Infant in the place appointed; the Queen
+ſtrait re<g ref="char:EOLhyphen"/>turning to Bed the Room immediately fills, tho none were ſummon'd
+but ſuch as <hi>Lycogenes</hi> thought were afraid to make a doubt or a
+ſcrutiny into the truth of it, or thoſe whom <hi>Lycogenes</hi> had already
+prepar'd to ſwallow and favour the impoſition; and now the pretended Prince
+being Born the <hi>Pagans</hi> of <hi>Albion</hi> begin their Jubilee,
+<hi>Latroon</hi> Go<g ref="char:EOLhyphen"/>vernor of <hi>Iberia</hi> begins to double the
+Perſecution of the Chriſtians there, <hi>Polydorus</hi> by a ſtrict
+Alli<g ref="char:EOLhyphen"/>ance and LEAGUE with <hi>Lycogenes,</hi> thinks of nothing but an
+Univerſal Monarchy, <hi>Lycogenes</hi> doubles the Oppreſſions of his
+Chriſtian Subjects, <hi>Meſſalina</hi> boaſts of the downfall of
+Hereſie, and a perpetual Regency, during her Life: The poor Chriſtians,
+eſpecially-the <hi>Albimites,</hi> though ſome<g ref="char:EOLhyphen"/>thing apprehenfive of the
+Conſequences of this Intrigue, were yet by their conſtant Remarques of all
+Tranſactions ſince the Report of <hi>Meſſalina's</hi> Conception
+ſufficiently ſatisfied of the fallacy and cheat, and reſolv'd on
+meaſures which they doubt<g ref="char:EOLhyphen"/>ed not would in a little time unravel the whole
+Myſtery.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:108546:19"/>
+         </div>
+      </body>
+   </text>
+</TEI>
